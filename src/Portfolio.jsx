@@ -152,9 +152,9 @@ document.body.classList.remove("dark");
     About Me
   </motion.h2>
   <p className="text-center leading-relaxed text-gray-700 dark:text-gray-300">
-    I'm a detail-oriented Software Engineer with a passion for full-stack development, cloud architecture, and AI integrations.
-    Currently completing my B.S. in Computer Science at Georgia State University (GPA: 3.62). I enjoy solving challenging problems,
-    building scalable web and mobile apps, and working in fast-paced agile teams.
+    Recent Computer Science graduate from Georgia State University (July 2025) with hands-on experience building full-stack applications using modern frameworks and REST APIs.
+    Interested in software engineering roles focused on scalable systems, cloud platforms, and AI-driven tools.
+    Motivated to contribute to impactful products while continuing to grow as a software engineer.
   </p>
 </Section>
 
