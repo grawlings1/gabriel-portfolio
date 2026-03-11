@@ -241,7 +241,7 @@ document.body.classList.remove("dark");
     >
       <h3 className="text-lg font-semibold">B.S. in Computer Science</h3>
       <p className="text-sm text-gray-700 dark:text-gray-300">Georgia State University</p>
-      <p className="text-sm text-gray-700 dark:text-gray-300">Expected Graduation: July 2025</p>
+      <p className="text-sm text-gray-700 dark:text-gray-300">Graduation: July 2025</p>
       <p className="text-sm text-gray-700 dark:text-gray-300">GPA: 3.62</p>
       <p className="text-sm text-green-600 dark:text-green-400">Dean's List (2023, 2024)</p>
     </motion.div>
